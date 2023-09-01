@@ -1,2 +1,0 @@
-# python_code
-spider
